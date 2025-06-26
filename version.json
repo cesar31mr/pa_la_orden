@@ -1,6 +1,6 @@
 {
-  "version": "4.2.2",
-  "releaseNotes": "• Mejoras en la funcionalidad de pedidos\n• Correcciones de errores menores\n• Optimizaciones de rendimiento\n• Nueva funcionalidad de verificación automática de actualizaciones",
+  "version": "4.4.1",
+  "releaseNotes": "• 🧹 Limpieza automática de espacios en blanco al guardar datos\n• 🔍 Sistema de Autocompletado - Sugerencias inteligentes basadas en historial del usuario\n• 🎠 Carrusel Animado - Pantalla de bienvenida atractiva con transiciones suaves\n• 🐛 Corrección de Errores\n• 🖼️ Imágenes BLOB\n• 📥 Validación Robusta - Importación que soporta múltiples formatos de imagen\n• 📍 Google Maps: Con zoom automático y vista de tráfico\n• 🚗 Waze: Con navegación directa activada\n• 🍎 Apple Maps: Integración nativa en iOS\n• 🌐 Navegador Web: Como fallback universal",
   "downloadUrl": "https://cesar31mr.github.io/pa_la_orden/downloads/PaLaOrden.apk",
   "releaseDate": "2025-06-26"
 }
